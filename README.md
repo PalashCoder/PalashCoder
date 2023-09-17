@@ -12,6 +12,7 @@
     <a href="https://facebook.com/iamrealpalash"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/iamrealpalash"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/iamrealpalash"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
+    <a href="mailto:ng.palash.das@gmail.com"><img height="34" src="images/socials/mail.png" alt="Mail"></a>
 </p>
 
 ---
