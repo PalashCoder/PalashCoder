@@ -25,7 +25,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=iamrealpalash&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
 <br>
     
-![trophy](https://github-profile-trophy.vercel.app/?username=iamrealpalash&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issuesiamrealpalash)
+![trophy](https://github-profile-trophy.vercel.app/?username=iamrealpalash&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
 
 <!-- github stats -->
 <h3 align="center">📈 GitHub Stats 📊</h3>
