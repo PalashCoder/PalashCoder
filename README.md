@@ -78,7 +78,7 @@
     <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
     <img src="images/frontend/jquery.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
-    <img src="images/frontend/next.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/next.png" height="34" alt="HTML" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1 align=left>Backend:&nbsp;&nbsp; <!-- Backend -->
