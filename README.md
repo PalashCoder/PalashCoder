@@ -101,19 +101,6 @@
 <h1>IoT:&nbsp;&nbsp; <!-- IoT -->
     <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
-
----
-
-<!-- Profile 3D Contrib -->
-<h1 align=center>
-
-:heavy_plus_sign: Contributions :heavy_minus_sign:
-</h1>
-
-<div align=center>
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" height="500" alt="Profile 3D Contrib">
-</div>
-
 </div>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"> </div>
 
