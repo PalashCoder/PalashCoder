@@ -48,7 +48,7 @@
 
 ---
 
-[![An image of @ankitsaha08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrealpalash)](https://holopin.io/@iamrealpalash)
+[![An image of @Palash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrealpalash)](https://holopin.io/@iamrealpalash)
 
 ---
 <!-- Skills -->
