@@ -23,7 +23,7 @@
   
 
     
-![trophy](https://github-profile-trophy.vercel.app/?username=iamrealpalash&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Stars,PullRequest,MultiLanguage)
+![trophy](https://github-profile-trophy.vercel.app/?username=iamrealpalash&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
 
 <br>
     
