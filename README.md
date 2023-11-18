@@ -57,7 +57,8 @@
 <!-- Skills -->
 <h1 align=center>
 
-:books: Skills :desktop_computer:
+<h3 align="center">🏆 Skills 🥇</h3>
+
 </h1>
 
 <h1 align=left>Platform:&nbsp;&nbsp; <!-- Platform -->
