@@ -57,7 +57,7 @@
 <!-- Skills -->
 <h1 align=center>
 
-<h3 align="center">🏆 Skills 🥇</h3>
+<h2 align="center">🏆 Skills 🥇</h2>
 
 </h1>
 
