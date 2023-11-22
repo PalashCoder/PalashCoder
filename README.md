@@ -49,11 +49,11 @@
 <h3 align="center">📊 Coding Stats 📈</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/iamrealpalash?ext=heatmap&theme=dark"></p> -->
 
----
+
 
 <!-- [![An image of @iamrealpalash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrealpalash)](https://holopin.io/@iamrealpalash) -->
 
----
+
 <!-- Skills -->
 <h1 align=center>
 
