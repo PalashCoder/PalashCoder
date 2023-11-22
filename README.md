@@ -18,6 +18,7 @@
 <div  align="center" >
 <a href="https://iamrealpalash.netlify.app"><img alt="C" src="https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/iamrealpalash"><img alt="Sponsor Palash" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </div>
+
 ---
 
 <!-- github trophies -->
@@ -43,16 +44,15 @@
 </div>
 <br>
 
----
 
 <!-- LeetCode stats
 <h3 align="center">📊 Coding Stats 📈</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/iamrealpalash?ext=heatmap&theme=dark"></p> -->
 
 
-
 <!-- [![An image of @iamrealpalash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrealpalash)](https://holopin.io/@iamrealpalash) -->
 
+---
 
 <!-- Skills -->
 <h1 align=center>
