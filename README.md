@@ -16,7 +16,7 @@
 </p>
 
 <div  align="center" >
-<a href="https://iamrealpalash.netlify.app"><img alt="C" src="https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/iamrealpalash"><img alt="Sponsor Palash" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+<a href="https://iamrealpalash.netlify.app" target="_blank"><img alt="C" src="https://img.shields.io/badge/website-07C160?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/sponsors/iamrealpalash"><img alt="Sponsor Palash" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </div>
 
 ---
