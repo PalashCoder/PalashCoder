@@ -68,7 +68,7 @@
 <h1 align=left>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
     <p align="right">
         <a href="https://go-skill-icons.vercel.app/">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,go,java,kotlin" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,go,dart,java,kotlin" />
         </a>
     </p>
 </h1>
@@ -76,7 +76,15 @@
 <h1 align=left>Frontend:&nbsp;&nbsp; <!-- Frontend -->
     <p align="right">
         <a href="https://go-skill-icons.vercel.app/">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,bootstrap,css,html,jquery,nextjs,redux,reactquery" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,bootstrap,css,html,jquery,nextjs,vite,astro,redux,reactquery,flutter,wordpress" />
+        </a>
+    </p>
+</h1>
+
+<h1 align=left>Web3:&nbsp;&nbsp; <!-- Frontend -->
+    <p align="right">
+        <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" />
         </a>
     </p>
 </h1>
@@ -100,7 +108,7 @@
 <h1 align=left>Cloud:&nbsp;&nbsp; <!-- Cloud -->
     <p align="right">
         <a href="https://go-skill-icons.vercel.app/">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,appwrite,firebase,digitalocean,vercel,netlify,render" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,appwrite,firebase,digitalocean,vercel,netlify,render,supabase" />
         </a>
     </p>
 </h1>
