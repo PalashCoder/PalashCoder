@@ -68,7 +68,7 @@
 <h1 align=left>Language & Script:&nbsp;&nbsp; <!-- Language & Script -->
     <p align="right">
         <a href="https://go-skill-icons.vercel.app/">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,go,dart,java,kotlin" />
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,go,java,kotlin" />
         </a>
     </p>
 </h1>
