@@ -35,7 +35,7 @@
 <h3 align="center">📈 GitHub Stats 📊</h3>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=PalashCoder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=368 src="https://github-readme-stats.vercel.app/api?username=PalashCoder&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10" alt="github stats">
+  <img width=368 src="https://github-readme-stats.vercel.app/api?username=PalashCoder&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=react&border_radius=10&show=reviews&hide=contribs" alt="github stats">
     &nbsp;&nbsp;
   <br/>
   <img width=370 align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=PalashCoder&show_icons=true&locale=en&theme=react&border_radius=10&layout=compact&langs_count=10" height="194.8px" alt="language stats">
