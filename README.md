@@ -25,10 +25,10 @@
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PalashCoder&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
+![trophy](https://github-profile-trophy.vercel.app/?username=PalashCoder&theme=dark_lover&no-frame=true&no-bg=true&column=5&title=Experience,Commits,Repositories,Reviews,MultiLanguage)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PalashCoder&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=PalashCoder&theme=dark_lover&no-frame=true&no-bg=true&column=5&title=Organizations,Followers,Issues,Stars,PullRequest)
 </div>
 
 <!-- github stats -->
